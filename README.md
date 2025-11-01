@@ -7,11 +7,15 @@ A simple TUI-based CLI tool for generating Linux file permissions. Select readab
 </p>
 
 ## Installation
+#### Download
+You can download the binary from here: [release](https://github.com/ppriyankuu/easymod/releases/tag/v0.0.0.1)
+
 #### Build from source
 ```sh
 $ git clone github.com/ppriyankuu/easymod
 $ cd easymod
 $ make install
+$ make build
 $ make run
 ```
 
